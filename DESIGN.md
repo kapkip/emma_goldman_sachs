@@ -2,7 +2,12 @@
 ## Exception Report System — Design Notes
 
 ### Exception Categories
-(what goes here)
+PROPERTY-DEFINITION-MISMATCH
+HIERARCHY-BREAK
+LEGITIMATE-CHANNEL-BYPASS
+UNAUTH-AFFINITY-POOLING
+CONSENT-CALCULATION-ERROR
+UNSANCTIONED-RESOURCE-ACQUISITION
 
 ### Record Structure
 (what fields does each exception entry have)
