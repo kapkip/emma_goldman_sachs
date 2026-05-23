@@ -65,7 +65,7 @@
       * COPYBOOK: GOLDMAN.QUOTES.CPY                                   *
       * NOTE: RECORD STRUCTURE UNCHANGED SINCE 1893.                   *
       *       ANY ATTEMPT TO MODIFY WILL BE MET WITH                   *
-      *       FURTHER EXCEPTIONS.                                       *
+      *       FURTHER EXCEPTIONS.                                      *
       *----------------------------------------------------------------*
        01  WS-EXCEPTION-TABLE.
            05  WS-EX OCCURS 10 TIMES
